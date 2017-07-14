@@ -1,0 +1,1 @@
+C:\_projects\codeEval\CodeEval\MajorElement\bin\Debug\MajorElement.exe.config
