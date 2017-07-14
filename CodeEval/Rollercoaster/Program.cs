@@ -13,7 +13,6 @@ namespace Rollercoaster
             string f = "data.txt";
             if (args.Length > 0)
                 f = args[0];
-            List<string> solution = new List<string>();
             string[] lines = System.IO.File.ReadAllText(f).Split('\n');
             foreach (string line in lines)
             {
@@ -26,11 +25,7 @@ namespace Rollercoaster
                     count += Char.IsLetter(c) ? 1 : 0;
                 }
                 output += '\n';
-                solution.Add(output);
-            }
-            foreach (var s in solution)
-            {
-                Console.WriteLine(s);
+                Console.WriteLine(output);
             }
             Console.ReadLine();
         }
