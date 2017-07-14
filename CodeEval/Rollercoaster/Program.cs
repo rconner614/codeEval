@@ -24,7 +24,6 @@ namespace Rollercoaster
                     //if char is an alphabetic character && count is even, capitalize the char || count is odd, lowercase char || not an alpha, do nothing
                     count += Char.IsLetter(c) ? 1 : 0;
                 }
-                output += '\n';
                 Console.WriteLine(output);
             }
             Console.ReadLine();

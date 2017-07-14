@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyLists", "MultiplyLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rollercoaster", "Rollercoaster\Rollercoaster.csproj", "{E695970F-C5A1-4A78-A7A7-225B1DEA04C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "LongestWord\LongestWord.csproj", "{4D599C12-B9D8-4DC3-B3F8-31CDBBC18BFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E695970F-C5A1-4A78-A7A7-225B1DEA04C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E695970F-C5A1-4A78-A7A7-225B1DEA04C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E695970F-C5A1-4A78-A7A7-225B1DEA04C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D599C12-B9D8-4DC3-B3F8-31CDBBC18BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D599C12-B9D8-4DC3-B3F8-31CDBBC18BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D599C12-B9D8-4DC3-B3F8-31CDBBC18BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D599C12-B9D8-4DC3-B3F8-31CDBBC18BFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
