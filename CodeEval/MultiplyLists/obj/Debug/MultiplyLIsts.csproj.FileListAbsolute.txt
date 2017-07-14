@@ -5,3 +5,6 @@ C:\_projects\codeEval\CodeEval\MajorElement\bin\Debug\MajorElement.pdb
 C:\_projects\codeEval\CodeEval\MajorElement\obj\Debug\MultiplyLIsts.csprojResolveAssemblyReference.cache
 C:\_projects\codeEval\CodeEval\MajorElement\obj\Debug\MajorElement.exe
 C:\_projects\codeEval\CodeEval\MajorElement\obj\Debug\MajorElement.pdb
+C:\_projects\codeEval\CodeEval\MultiplyLists\bin\Debug\MajorElement.exe.config
+C:\_projects\codeEval\CodeEval\MultiplyLists\obj\Debug\MajorElement.exe
+C:\_projects\codeEval\CodeEval\MultiplyLists\obj\Debug\MajorElement.pdb

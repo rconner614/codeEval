@@ -1,0 +1,6 @@
+C:\_projects\codeEval\CodeEval\Rollercoaster\bin\Debug\Rollercoaster.exe.config
+C:\_projects\codeEval\CodeEval\Rollercoaster\bin\Debug\Rollercoaster.exe
+C:\_projects\codeEval\CodeEval\Rollercoaster\bin\Debug\Rollercoaster.pdb
+C:\_projects\codeEval\CodeEval\Rollercoaster\obj\Debug\Rollercoaster.csprojResolveAssemblyReference.cache
+C:\_projects\codeEval\CodeEval\Rollercoaster\obj\Debug\Rollercoaster.exe
+C:\_projects\codeEval\CodeEval\Rollercoaster\obj\Debug\Rollercoaster.pdb
